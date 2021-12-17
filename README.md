@@ -1,10 +1,9 @@
 # checkers
 EE551 Final Project with PYGAME
-1. Download Python
-2. In terminal: pip install pygame
-3. VSCODE was used when creating folders. 
-4. Insert Assets in folder for the Crown
-Once the code is completed: To run simpley pythin main.py in the directory
+1. In terminal: pip install pygame
+2. VSCODE was used when creating folders. 
+3. Insert Assets in folder for the Crown
+4. To run type pythin main.py in the directory
 
 
 
